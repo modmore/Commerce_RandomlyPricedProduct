@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model package="commerce_randomlypricedproduct" baseClass="comSimpleObject" platform="mysql" defaultEngine="MyISAM" version="1.1">
+    <object class="RandomlyPricedProduct" extends="comProduct" inherit="single" />
+</model>

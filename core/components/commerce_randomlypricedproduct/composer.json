@@ -1,0 +1,17 @@
+{
+  "name": "modmore/commerce_randomlypricedproduct",
+  "description": "Example custom product for Commerce",
+  "license": "MIT",
+  "config": {
+    "platform": {
+      "php": "5.5.0"
+    }
+  },
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "modmore\\Example\\RandomlyPricedProduct\\" : "src/"
+    }
+  }
+}
