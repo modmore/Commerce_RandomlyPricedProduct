@@ -1,7 +1,7 @@
 <?php
 namespace modmore\Example\RandomlyPricedProduct\Modules;
 use modmore\Commerce\Modules\BaseModule;
-use Symfony\Component\EventDispatcher\EventDispatcher;
+use modmore\Commerce\Dispatcher\EventDispatcher;
 
 class RandomlyPricedProduct extends BaseModule {
 
